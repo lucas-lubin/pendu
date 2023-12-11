@@ -1,0 +1,16 @@
+voiture
+automatique
+maison
+police
+pompier
+fenetre
+poivre
+appartement
+course
+football
+Olympique
+tableau
+enceinte
+internet
+musique
+MOT
